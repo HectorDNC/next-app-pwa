@@ -4,9 +4,9 @@
     "display": "standalone",
     "scope": "/",
     "start_url": "/",
-    "name": "NextJS App Pwa Test",
+    "name": "Nextjs PWA Test",
     "short_name": "NextJS PWA",
-    "description": "PWA",
+    "description": "Next App with PWA",
     "icons": [
         {
             "src": "/icon-192x192.png",
